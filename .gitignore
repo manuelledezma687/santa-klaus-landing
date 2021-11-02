@@ -1,0 +1,7 @@
+#archivos que no se deben subir en el repositorio.
+
+/jquery
+/images
+/js
+/poppper
+/css
